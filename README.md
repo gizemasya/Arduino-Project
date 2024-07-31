@@ -3,3 +3,4 @@ In this project, we aimed to encourage people to drink more water. To achieve th
 - Designed the base in Fusion 360 and printed in 3D printer.
 - Used load cell, HX711 and Arduino Uno to weigh the bottle.
 - Wrote arduino code to display messages.
+![](./result.jpg)
